@@ -1,16 +1,20 @@
-### Hi there 👋
+# Steve Helms
 
-<!--
-**stevenhelms/stevenhelms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a life-long learner, problem-solver, and servant. My service to others has looked different over the years. 
+There have been seasons of using my systems, programming, and cybersecurity skills to serve and protect organizations. 
+My current focus is to benefit others directly through strategic technology oversight and management, teaching, and mentoring. 
 
-Here are some ideas to get you started:
+I favor old-fashioned paper notes and can often be found playing disc golf, learning something new, or cooking. 
+Preparing and sharing a meal with friends and family is a wonderful way to connect with others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I know
+
+I've been programming since 1988 so rather than list out the dozens of languages I've used, I currently use:
+
+- Python - data engineering, backend calculations.
+
+I'm not in this space often in my current role, but still get to contribute on occasion.
+
+## Connecting
+
+If you want to connect, you can find me on [LinkedIn](https://www.linkedin.com/in/stevenhelms/).
