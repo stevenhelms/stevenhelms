@@ -11,7 +11,8 @@ Preparing and sharing a meal with friends and family is a wonderful way to conne
 
 I've been programming since 1988 so rather than list out the dozens of languages I've used, I currently use:
 
-- Python - data engineering, backend calculations.
+- Python - data analysis, machine learning, backend APIs.
+- JavaScript/React - frontend tools and dashboards.
 
 I'm not in this space often in my current role, but still get to contribute on occasion.
 
